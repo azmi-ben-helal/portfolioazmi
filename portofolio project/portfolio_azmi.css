@@ -1,0 +1,229 @@
+
+
+
+.bg {
+  /* The image used */
+  background-image: url("image_portfolio.jpg");
+
+  /* Full height */
+  height: 100%;
+  display: flex;
+  
+  align-items: center;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.text1{
+margin-top : 200px;
+text-align: center;
+font-family:"times new roman", times, serif;
+
+}
+
+
+.fa {
+    padding: 30px;
+    font-size: 40px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+    }
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+
+}
+
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+  }
+
+
+.c1{
+
+  background-color: #F5F5DC;
+
+}
+
+.c1 ul{
+
+  padding-right: : 10px;
+}
+.c2{
+
+  background-color: #F0FFFF;
+
+  }
+.c2_0{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.btn-modif {
+  position: relative;
+/*  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  cursor: pointer;
+  font-size: 20px;*/
+left: 700px;
+/*border:solid;*/
+}
+.btn-modif i{
+  padding:0px;
+}
+
+/*
+.btn-modif:hover {
+  background-color: RoyalBlue;
+}*/
+
+.rounded-circle{
+ 
+ 
+  background-color: grey;
+
+}
+.btn-modif i{
+  padding:0px;
+}
+.rounded{
+  
+  background-color: grey;
+}
+ 
+ .c3{
+background-color: #F0FFFF;
+ }
+ 
+
+.c4{
+  background-color: #FFF8DC;
+}
+
+.c5{
+background-color: #FFF8DC;
+
+}
+/*-.pie1{
+  width: 100px;height:100px;
+  border-radius: 50%;
+  background-color: grey;
+  background-image: linear-gradient(to right, transparent 50%,#155d73 0);
+}
+
+.pie1::before
+{
+  margin-bottom: 20px;
+  content: '';
+  display: block;
+  margin-left: 50%;
+  height: 100%;
+  border-radius: 0 100% 100% 0 / 50%;
+  background: #155d73;
+  transform-origin: left;
+  transform: rotate(.2turn);
+}
+
+.pie2{
+  width: 100px;height:100px;
+  border-radius: 50%;
+  background-color: grey;
+  background-image: linear-gradient(to right,transparent 50%,#155d73 0);
+}
+
+.pie2::before
+{
+  content: '';
+  display: block;
+  margin-left: 50%;
+  height: 100%;
+  border-radius: 0 100% 100% 0 / 50%;
+  background:#155d73;
+  transform-origin: left;
+  transform: rotate(0.1turn);
+
+
+}
+
+.pie3{
+  width: 100px;height:100px;
+  border-radius: 50%;
+  background-color: grey;
+  background-image: linear-gradient(to right,transparent 50%,#155d73 0);
+}
+
+.pie3::before
+{
+  content: '';
+  display: block;
+  margin-left: 50%;
+  height: 100%;
+  border-radius: 0 100% 100% 0 / 50%;
+  background:#155d73;
+  transform-origin: left;
+  transform: rotate(.1turn);
+}
+
+
+.pie4{
+  width: 100px;height:100px;
+  border-radius: 50%;
+  background-color: grey;
+  background-image: linear-gradient(to right,transparent 50%,#155d73 0);
+}
+
+.pie4::before
+{
+  content: '';
+  display: block;
+  margin-left: 50%;
+  height: 100%;
+  border-radius: 0 100% 100% 0 / 50%;
+  background:#155d73;
+  transform-origin: left;
+  transform: rotate(.2turn);
+}
+-*/
+.progress{
+
+  margin-bottom: 15px;
+
+}
+.introd{
+  position: relative;
+  font-family:times new roman, times, serif;
+ font-size: 20px;
+ line-height: 30px;
+ top: 60px;
+}
+
+.title_3{
+ font-family:times new roman, times, serif;
+text-align: center;
+ text-decoration-color: blue;
+}
+
+
+
+
+
+
+
+
+.fa-download{
+  font-size: 25px;
+}
